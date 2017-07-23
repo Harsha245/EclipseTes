@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+        <members>test1</members>
+        <members>test2</members>
+        <members>action_controller_check</members>
+        <name>ApexClass</name>
+    </types>
+    <version>38.0</version>
+</Package>
